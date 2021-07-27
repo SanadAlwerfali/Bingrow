@@ -1,0 +1,6 @@
+﻿  BingrowBoard.cpp
+C:\Users\sanad\OneDrive\Desktop\BingrowData\Bingrow\Bingrow\BingrowBoard.cpp(263,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sanad\OneDrive\Desktop\BingrowData\Bingrow\Bingrow\BingrowBoard.cpp(288,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sanad\OneDrive\Desktop\BingrowData\Bingrow\Bingrow\BingrowBoard.cpp(312,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sanad\OneDrive\Desktop\BingrowData\Bingrow\Bingrow\BingrowBoard.cpp(335,21): warning C4018: '<': signed/unsigned mismatch
+  Bingrow.vcxproj -> C:\Users\sanad\OneDrive\Desktop\BingrowData\Bingrow\Debug\Bingrow.exe
